@@ -20,7 +20,7 @@ var createCounter = function(n) {
  * counter() // 12
  */ 
 ```
-##Ce qu'il faut retenir :
+## Ce qu'il faut retenir :
 
 Il est important dans cette exercice ce comprendre le principe de closure, dans ce cas la fonction **inner** à accès au paramètres et déclaration de la fonction *outer*.
 
