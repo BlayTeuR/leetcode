@@ -1,6 +1,6 @@
-#Counter
+# Counter
 
-##Voici la solution :
+## Voici la solution :
 
 ``` js
  /**
@@ -22,6 +22,6 @@ var createCounter = function(n) {
 ```
 ##Ce qu'il faut retenir :
 
-Il est important dans cette exercice ce comprendre le principe de closure, dans ce cas la fonction *inner* à accès au paramètres et déclaration de la fonction *outer*.
+Il est important dans cette exercice ce comprendre le principe de closure, dans ce cas la fonction **inner** à accès au paramètres et déclaration de la fonction *outer*.
 
-Aussi on note que *n++* return n puis incrémente, *++n ou n += 1* incrémente puis return n.
+Aussi on note que **n++** return n puis incrémente, **++n ou n += 1** incrémente puis return n.
