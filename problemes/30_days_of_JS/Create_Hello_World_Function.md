@@ -1,4 +1,4 @@
-**Hello word function :**
+**Hello World function :**
 ```js
 /**
  * @return {Function}
@@ -13,7 +13,8 @@ var createHelloWorld = function() {
 /**
  * const f = createHelloWorld();
  * f(); // "Hello World"
- */```
+ */ 
+```
 
 En JavaScript, la syntaxe ...args utilisée en tant que paramètre de fonction s’appelle le paramètre rest (ou « rest parameter » en anglais). Cela signifie que args va représenter un tableau contenant tous les arguments supplémentaires passés à la fonction, au-delà des paramètres nommés (s’il y en a).
 
@@ -27,6 +28,7 @@ function exemple(param1, ...args) {
 
 exemple(1, 2, 3, 4);
 // param1 = 1
-// args = [2, 3, 4]```
+// args = [2, 3, 4]
+```
 
 
