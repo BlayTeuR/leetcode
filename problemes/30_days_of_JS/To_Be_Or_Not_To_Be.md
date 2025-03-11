@@ -2,8 +2,7 @@
 
 ## Voici la solution :
 
-```
-js
+``` js
 /**
  * @param {string} val
  * @return {Object}
