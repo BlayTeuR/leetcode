@@ -1,3 +1,10 @@
+# Create Hello Wolrd Function
+
+lien du problème et énoncé :
+
+## Voici la solution :
+
+
 **Hello World function :**
 ```js
 /**
@@ -15,6 +22,8 @@ var createHelloWorld = function() {
  * f(); // "Hello World"
  */ 
 ```
+
+## Ce qu'il faut retenir
 
 En JavaScript, la syntaxe ...args utilisée en tant que paramètre de fonction s’appelle le paramètre rest (ou « rest parameter » en anglais). Cela signifie que args va représenter un tableau contenant tous les arguments supplémentaires passés à la fonction, au-delà des paramètres nommés (s’il y en a).
 
