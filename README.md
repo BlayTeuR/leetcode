@@ -2,7 +2,6 @@
 
 Un projet complet où je résous des problèmes de LeetCode à travers 4 grands cours :
 - **30 Days of JavaScript**
-- **Top 150 Interview Questions**
 - **LeetCode 75**
 - **SQL 50**
 
@@ -11,10 +10,9 @@ Chaque problème est résolu dans des fichiers Markdown, contenant l'énoncé, l
 ## Table des matières
 1. [Introduction](#introduction)
 2. [30 Days of JavaScript](#30-days-of-javascript)
-3. [Top 150 Interview Questions](#top-150-interview-questions)
-4. [LeetCode 75](#leetcode-75)
-5. [SQL 50](#sql-50)
-6. [Installation et Exécution](#installation-et-exécution)
+3. [LeetCode 75](#leetcode-75)
+4. [SQL 50](#sql-50)
+5. [Installation et Exécution](#installation-et-exécution)
 
 ---
 
@@ -38,16 +36,6 @@ Ce dossier contient des problèmes résolus dans le cadre de la série **30 Days
 - **[Jour 1 - Create Hello World function](problems/30_days_of_JS/day1_Create_Hello_World_Function.md)** : Énoncé, solution et explication.
 - **[Jour 2 - Counter](problems/30_days_of_JS/day2_Counter.md)** : Énoncé, solution et explication.
 - **[Jour 3 - To Be Or Not To Be](problems/30_days_of_JS/day3_To_Be_Or_Not_To_Be.md)** : Énoncé, solution et explication.
-- *(...)*
-
----
-
-## Top 150 Interview Questions
-
-Ce dossier contient des questions fréquemment posées lors des entretiens techniques. Chaque fichier représente une question avec l'énoncé, la solution et une explication.
-
-- **[Problème 1 - Merge Intervals](problems/top-150-interview-questions/merge-intervals.md)** : Énoncé, solution et explication.
-- **[Problème 2 - Two Sum](problems/top-150-interview-questions/two-sum.md)** : Énoncé, solution et explication.
 - *(...)*
 
 ---
