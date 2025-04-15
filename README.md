@@ -35,8 +35,9 @@ Chaque problème résolu contient le code en JavaScript, SQL ou Java, les concep
 
 Ce dossier contient des problèmes résolus dans le cadre de la série **30 Days of JavaScript**. Chaque fichier dans ce dossier correspond à un jour de la série.
 
-- **[Jour 1 - Create Hellow World function](problems/30_days_of_JS/day1_Create_Hello_World_Function.md)** : Énoncé, solution et explication.
-- **[Jour 2 - Problème 2](problems/30-days-of-javascript/day2_problem2.md)** : Énoncé, solution et explication.
+- **[Jour 1 - Create Hello World function](problems/30_days_of_JS/day1_Create_Hello_World_Function.md)** : Énoncé, solution et explication.
+- **[Jour 2 - Counter](problems/30_days_of_JS/day2_Counter.md)** : Énoncé, solution et explication.
+- **[Jour 3 - To Be Or Not To Be](problems/30_days_of_JS/day3_To_Be_Or_Not_To_Be.md)** : Énoncé, solution et explication.
 - *(...)*
 
 ---
