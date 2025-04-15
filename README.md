@@ -15,9 +15,6 @@ Chaque problème est résolu dans des fichiers Markdown, contenant l'énoncé, l
 4. [LeetCode 75](#leetcode-75)
 5. [SQL 50](#sql-50)
 6. [Installation et Exécution](#installation-et-exécution)
-7. [Comment Contribuer](#comment-contribuer)
-8. [Licences](#licences)
-9. [Références](#références)
 
 ---
 
@@ -30,7 +27,7 @@ Ce projet est une collection de solutions aux problèmes de LeetCode, organisée
 - **LeetCode 75** : 75 problèmes essentiels pour maîtriser les structures de données et algorithmes.
 - **SQL 50** : 50 exercices pour améliorer les compétences en SQL.
 
-Chaque problème résolu contient une explication détaillée de la solution, le code en JavaScript, SQL ou Java, et les concepts clés associés.
+Chaque problème résolu contient le code en JavaScript, SQL ou Java, les concepts clés associés, et ce que j'ai retenu d'important en le réalisant.
 
 ---
 
@@ -38,8 +35,9 @@ Chaque problème résolu contient une explication détaillée de la solution, le
 
 Ce dossier contient des problèmes résolus dans le cadre de la série **30 Days of JavaScript**. Chaque fichier dans ce dossier correspond à un jour de la série.
 
-- **[Jour 1 - Problème 1](problems/30-days-of-javascript/day1_problem1.md)** : Énoncé, solution et explication.
-- **[Jour 2 - Problème 2](problems/30-days-of-javascript/day2_problem2.md)** : Énoncé, solution et explication.
+- **[Jour 1 - Create Hello World function](problems/30_days_of_JS/day1_Create_Hello_World_Function.md)** : Énoncé, solution et explication.
+- **[Jour 2 - Counter](problems/30_days_of_JS/day2_Counter.md)** : Énoncé, solution et explication.
+- **[Jour 3 - To Be Or Not To Be](problems/30_days_of_JS/day3_To_Be_Or_Not_To_Be.md)** : Énoncé, solution et explication.
 - *(...)*
 
 ---
