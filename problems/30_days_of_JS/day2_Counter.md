@@ -1,5 +1,7 @@
 # Counter
 
+lien vers l'énoncé : https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript
+
 ## Voici la solution :
 
 ``` js
