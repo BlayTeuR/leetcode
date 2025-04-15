@@ -2,7 +2,7 @@
 
 ## Enoncé :
 
-d
+[🔗 Voir sur LeetCode](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)
 
 ## Voici la solution :
 
@@ -24,9 +24,9 @@ var map = function(arr, fn) {
 
 ## Explication :
 
--La fonction map prend en entrée :
-	- un tableau arr
-	- une fonction fn à appliquer à chaque élément du tableau.
+- La fonction map prend en entrée :
+   - un tableau arr
+   - une fonction fn à appliquer à chaque élément du tableau.
 - On parcourt le tableau avec une boucle for.
 - Pour chaque élément, on applique fn à l'élément courant (fn(arr[i])).
 - Si le résultat est un nombre (typeof val === "number"), on l'ajoute au tableau res.
