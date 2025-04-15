@@ -6,7 +6,7 @@ Un projet complet où je résous des problèmes de LeetCode à travers 4 grands 
 - **LeetCode 75**
 - **SQL 50**
 
-Chaque problème est résolu dans des fichiers Markdown, contenant l'énoncé, le code solution, et l'explication des concepts clés à retenir.
+Chaque problème est résolu dans des fichiers Markdown, contenant l'énoncé, le code solution, l'explication des concepts clés à retenir, et dans certain cas une comparaison entre ma solution et la solution optimale.
 
 ## Table des matières
 1. [Introduction](#introduction)
