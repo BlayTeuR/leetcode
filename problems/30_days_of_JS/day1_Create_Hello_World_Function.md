@@ -1,12 +1,12 @@
-# 📘 Create Hello Wolrd Function
+# Create Hello Wolrd Function
 
 [🔗 Voir sur LeetCode](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript)
 
-## 🧠 Enoncé :
+## Enoncé :
 
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
 
-## ✅ Ma Solution
+## Ma Solution
 
 ```js
 /**
