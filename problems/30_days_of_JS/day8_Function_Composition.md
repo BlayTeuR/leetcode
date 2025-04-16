@@ -60,3 +60,5 @@ var compose = function(functions) {
 - **reverse()** inverse l'ordre des fonctions pour les appliquer du dernier au premier, elle joue donc le même rôle que la partie : **let i = functions.length - 1; i >= 0; i--** du premier code
 
 ## Ce qu'il faut retenir :
+
+rien de spécial si ce n'est l'utilitée des fonctions slice(), reverse()
