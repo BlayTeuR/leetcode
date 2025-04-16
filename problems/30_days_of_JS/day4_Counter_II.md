@@ -1,6 +1,8 @@
 # Counter II
 
-## Description du problËmes :
+[Lien vers le probl√®me](https://leetcode.com/problems/counter-ii?envType=study-plan-v2&envId=30-days-of-javascript)
+
+## Description du probl√®mes :
 
 Write a function createCounter. It should accept an initial integer init. It should return an object with three functions.
 
@@ -42,4 +44,4 @@ var createCounter = function(init) {
  */
 ```
 
-Pas de chose spÈcial ‡ retenir ici
+Pas de chose sp√©cial √† retenir ici
