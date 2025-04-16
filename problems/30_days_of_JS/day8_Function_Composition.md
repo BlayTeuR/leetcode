@@ -1,5 +1,7 @@
 # Function Composition
 
+[Voir sur Leetcode](https://leetcode.com/problems/function-composition/?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ## Description du problème :
 
 Given an array of functions [f1, f2, f3, ..., fn], return a new function fn that is the function composition of the array of functions.
@@ -33,9 +35,13 @@ var compose = function(functions) {
  */
 ```
 
-## Ce qu'il faut retenir :
+## Explication de la solution :
 
-Faire attention au fait qu'on évalue les fonctions de la droite vers la gauche on commence donc à i = function.length - 1.
+- Le but est d'effectuer les opérations des fonctions du tableau functions successivement sur l'argument x passer dans la fonction de return
+- D'après l'énoncé on voit que la première fonction du tableau sera la dernière opération effectuée sur x
+- Pour résoudre le problème il suffit donc de :
+    - parcourir le tableau du début à la fin
+    - pour chaque fonction du tableau l'appliquer sur la valeur courante de x
 
 ### Implémentation avec le forEach
 
@@ -52,3 +58,5 @@ var compose = function(functions) {
 
 - **slice()** crée une copie du tableau (évite de modifier l'original).
 - **reverse()** inverse l'ordre des fonctions pour les appliquer du dernier au premier, elle joue donc le même rôle que la partie : **let i = functions.length - 1; i >= 0; i--** du premier code
+
+## Ce qu'il faut retenir :
