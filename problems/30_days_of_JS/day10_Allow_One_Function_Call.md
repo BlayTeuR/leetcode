@@ -40,9 +40,9 @@ var once = function(fn) {
 
 ## Explication de la solution
 
-- Le but de cet exercice est de créer une fonction once s'assurant que la fonction fn passer en argument de celle-ci ne puisse être appelé qu'une seule fois
+- Le but de cet exercice est de créer une fonction once s'assurant que la fonction fn passée en argument de celle-ci ne puisse être appelée qu'une seule fois
 - pour cela on initialise donc une variable boolean **calls** à false
-- on retourne ensuite une fonction ayant comme argument la liste des arguments qui seront passé à fn ex : 1, 2, 3 ou a, b, c
+- on retourne ensuite une fonction ayant comme argument la liste des arguments qui seront passés à fn ex : 1, 2, 3 ou a, b, c
 - Si calls est false (premier appel) -> on retourne fn de la liste d'argument
 - sinon undifined
 
