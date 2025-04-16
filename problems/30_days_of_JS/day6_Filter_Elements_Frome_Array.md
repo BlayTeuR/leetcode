@@ -1,5 +1,7 @@
 # Filter Elements from Array
 
+[🔗 Voir sur LeetCode](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ## Description du problèmes :
 
 Given an integer array arr and a filtering function fn, return a filtered array filteredArr.
@@ -30,6 +32,9 @@ var filter = function(arr, fn) {
 };
 ```
 
-## Ce qu'il faut retenir
+## Explication de la solution
 
-Il est important lorsqu'on fait le foreach de respecter la signature de la fonction fn. Comme celle-ci prend l'item + l'index alors on boucle sur l'item + l'index sinon certains tests peuvent ne pas passer.
+- on parcourt le tableau de nombre arr
+- pour chaque valeur du tableau arr on crée une variable val égale à la sortie de la fonction fn ayant comme paramètre la valeur arr[i] soit la valeur courante du tableau arr
+- si la varirable est bien du type number alors on ajoute la variable val au tableau résultat res
+
