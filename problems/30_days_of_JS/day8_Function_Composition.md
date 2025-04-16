@@ -12,7 +12,7 @@ The function composition of an empty list of functions is the identity function 
 
 You may assume each function in the array accepts one integer as input and returns one integer as output.
 
-## Solution du problèmes :
+## Solution du problème :
 
 ``` js
 /**
