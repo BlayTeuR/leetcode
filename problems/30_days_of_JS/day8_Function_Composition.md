@@ -40,7 +40,7 @@ var compose = function(functions) {
 - Le but est d'effectuer les opérations des fonctions du tableau functions successivement sur l'argument x passer dans la fonction de return
 - D'après l'énoncé on voit que la première fonction du tableau sera la dernière opération effectuée sur x
 - Pour résoudre le problème il suffit donc de :
-    - parcourir le tableau du début à la fin
+    - parcourir le tableau de la fin au début
     - pour chaque fonction du tableau l'appliquer sur la valeur courante de x
 
 ### Implémentation avec le forEach
