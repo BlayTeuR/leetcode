@@ -1,5 +1,7 @@
 # Allow One Function Call
 
+[Voir sur Leetcode](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ## Description du problème
 
 Given a function fn, return a new function that is identical to the original function except that it ensures fn is called at most once.
@@ -35,6 +37,14 @@ var once = function(fn) {
  */
 
 ```
+
+## Explication de la solution
+
+- Le but de cet exercice est de créer une fonction once s'assurant que la fonction fn passer en argument de celle-ci ne puisse être appelé qu'une seule fois
+- pour cela on initialise donc une variable boolean **calls** à false
+- on retourne ensuite une fonction ayant comme argument la liste des arguments qui seront passé à fn ex : 1, 2, 3 ou a, b, c
+- Si calls est false (premier appel) -> on retourne fn de la liste d'argument
+- sinon undifined
 
 ## Ce qu'il faut retenir :
 
